@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kajal kumari</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
+<img align="right" alt="coding"width="400"src="https://camo.githubusercontent.com/9cdfc465c2d06a68ec129d26fe4a9cbe323f3ea73170dbb8389f3c44438e60f7/68747470733a2f2f696b2e696d6167656b69742e696f2f647265736d612f447265736d615f4c6962726172792f6d616e616765722d6f70656e696e67735f4e57336258545446502e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajal-kumaro-01&label=Profile%20views&color=0e75b6&style=flat" alt="kajal-kumaro-01" /> </p>
 
@@ -8,7 +9,6 @@
 - 📫 How to reach me **kajalkashyapsingh01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="coding" width="400"src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 <p align="left">
 <a href="https://linkedin.com/in/kajal kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kajal kumari" height="30" width="40" /></a>
 <a href="https://instagram.com/itsdivyaa__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsdivyaa__" height="30" width="40" /></a>
